@@ -1,9 +1,9 @@
-# ReadMe Generator
+# test for readme gen
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
-Creating a ReadMe Generator
+a readme generator
 
 ## Table of Contents
 
@@ -16,11 +16,11 @@ Creating a ReadMe Generator
 
 ## Installation
 
-simple install
+git clone
 
 ## Usage
 
-used for creating a readme when developing an application
+to create professional readme
 
 ## License
 
@@ -28,15 +28,15 @@ This project is licensed under the **MIT** license.
 
 ## Contributing
 
-none
+placeholder
 
 ## Tests
 
-however they want
+123123123
 
 ## Questions
 
 If you have any questions, you can contact me:
 
 - GitHub: [salgxv](https://github.com/salgxv)
-- Email: [dontworry@gmail.com](mailto:dontworry@gmail.com)
+- Email: [sal1@gmail.com](mailto:sal1@gmail.com)
